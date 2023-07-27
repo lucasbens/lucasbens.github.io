@@ -13,7 +13,7 @@ My background is in Mathematics and Information Systems. I did my master's at So
 
 I come from France 🇫🇷, I gained valuable experiences there by working for two years as a Data Scientist and Data Analyst.
 
-**🤔 Why I decided to move to Israel 🇮🇱?**
+**🤔 Why I decided to move to Israel 🇮🇱?** <br>
 I worked for a summer in the dynamic world of a startup in Tel Aviv. This experience inspired me to be part of the vibrant tech nation of Israel and thrive in its inspiring environment.
 
 <br>
