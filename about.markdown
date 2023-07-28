@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-<img src="/profil.jpg" alt="ProfilePic" width="20%" height="auto">
+<img src="/profil.png" alt="ProfilePic" width="20%" height="auto">
 
 👋 I am Lucas, a <font color="#CC7722"><strong>Data Scientist</strong></font>
  at Meta _(by Qualitest)_ in  <font color="#CC7722">Tel-Aviv</font>, where I have been conducting data analytics, engineering, and machine learning projects since January 2021.
@@ -22,7 +22,7 @@ I worked for a summer in the dynamic world of a startup in Tel Aviv. This experi
 <br>
 
 
-#### Technical Skills
+#### <font color="#800080">Technical Skills</font>
 `Programming:` Python _(TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Selenium, Flask)_
 
 `Data Science:` Feature Engineering, Dimensionality Reduction, Regularization Techniques, Regression, Classification, Clustering, Neural Network, Transfer Learning, Computer Vision, NLP _(word2vec, RNN, LSTM, GRU, BERT)_ , Autoencoders, GAN
