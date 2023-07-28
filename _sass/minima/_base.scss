@@ -59,6 +59,34 @@ img {
   vertical-align: middle;
 }
 
+/* Chat GPT */
+
+.image-container img {
+  width: 25%; /* Set the image width to 100% of its container */
+  height: auto; /* Maintain the image's aspect ratio */
+}
+
+/* Media query for smaller screens, adjust image size */
+@media screen and (max-width: 768px) {
+  .image-container img {
+    width: 30%; /* Set the image width to 80% of its container */
+  }
+}
+
+/* Media query for even smaller screens, adjust image size further */
+@media screen and (max-width: 480px) {
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .image-container img {
+    width: 40%; /* Set the image width to 60% of its container */
+  }
+}
+
+
 /**
  * Figures
  */
