@@ -4,7 +4,10 @@ title: About me
 permalink: /about/
 ---
 
-<img src="/profil.png" alt="ProfilePic" width="25%" height="auto">
+<div class="image-container">
+<img src="/profil.png" alt="ProfilePic">
+</div>
+<br>
 
 👋 I am Lucas, a <font color="#CC7722"><strong>Data Scientist</strong></font>
  at Meta _(by Qualitest)_ in  <font color="#CC7722">Tel-Aviv</font>, where I have been conducting data analytics, engineering, and machine learning projects since January 2021.
