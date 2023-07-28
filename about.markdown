@@ -19,10 +19,10 @@ I worked for a summer in the dynamic world of a startup in Tel Aviv. This experi
 <br>
 <a href="/Lucas_Bensaid_DS_.pdf" download><strong>Download my CV &#x1F4C4;</strong></a>
 
-
 <br>
 
-### Technical Skills
+
+#### Technical Skills
 `Programming:` Python _(TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Selenium, Flask)_
 
 `Data Science:` Feature Engineering, Dimensionality Reduction, Regularization Techniques, Regression, Classification, Clustering, Neural Network, Transfer Learning, Computer Vision, NLP _(word2vec, RNN, LSTM, GRU, BERT)_ , Autoencoders, GAN
